@@ -20,7 +20,7 @@ My name is Cody Khadka. I am a Computer Engineering student with a strong intere
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C#, c, c++, Javascript, Python ...
+Javascript, HTML, CSS, C#, C, C++, Javascript, Python , Comapuer Network...
 
 
 
